@@ -63,7 +63,7 @@ main {
 }
 
 #cta-container {
-  padding-rigt: 2rem;
+  padding-right: 2rem;
 }
 
 #cta-container > div {
@@ -276,7 +276,9 @@ ul input:checked::after {
   body {
     padding: 2em 1em;
   }
-  
+  #cta-container h1 {
+    font-size: 2rem;
+  }
   #cta-container #dots {
     --translatex: 0%;
   }
